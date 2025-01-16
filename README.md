@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shreya.
 - 👀 I’m a PhD student in my 4th year.
-- 🌱 I’m currently learning coding, programming, and computer science.
-- 😄 Pronouns: she/her
+- 🌱 I’m currently learning the basics of computer science.
 - ⚡ Fun fact: Ketchup was once sold as medicine.
 
 <!---
